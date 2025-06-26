@@ -29,3 +29,6 @@ A fully functional, responsive eCommerce platform built with **React 18**, **Vit
 ![FakeStoreAPI](https://img.shields.io/badge/FakeStoreAPI-lightgrey?style=for-the-badge)
 
 ![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
